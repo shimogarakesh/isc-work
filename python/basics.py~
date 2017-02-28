@@ -15,11 +15,11 @@ if False : print "True"
 
 if "": print "True"
 
-if [ ]: print "True"
+if []: print "True"
 
 if { }: print "True"
 
-if ( ): print "True"
+if (): print "True"
 
 
 
